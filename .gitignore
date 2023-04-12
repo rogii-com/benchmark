@@ -6,6 +6,7 @@
 *.dylib
 *.cmake
 !/cmake/*.cmake
+!/rogii/*
 !/test/AssemblyTests.cmake
 *~
 *.swp
